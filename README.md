@@ -1,7 +1,7 @@
 # Tutorial
 
 This is all about learning programming using different languages as we progress. For the basics, I would recommend we learn Java first so we could be easily introduced to Object-Oriented and it would be easier to understand the concept and best practices of the methodology.
-
+Hello World.
 ## Tools
 - SCM: [Git](https://github.com/shiorap/javatutorial)
 - IDE: [Eclipse](https://www.eclipse.org/)
@@ -26,4 +26,5 @@ We will learn about the best programming practices and when to best apply them. 
 - Excersise: Address Book with Database
 - User Interface
 - HTML5 & CSS3
-- Javascripts
+
+
